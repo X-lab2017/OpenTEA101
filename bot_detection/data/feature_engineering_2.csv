@@ -1,0 +1,6 @@
+square_feet,bedrooms,bathrooms,garage_area,basement_area,year_built,house_type,neighborhood_quality,sale_price
+2000,3,2,400,600,1995,Single Family,8,250000
+1600,2,1,250,500,1980,Apartment,6,150000
+2200,4,3,500,800,2005,Single Family,9,350000
+1800,3,2,350,550,1990,Townhouse,7,200000
+2400,4,3,450,700,2010,Single Family,8,400000
