@@ -38,7 +38,6 @@
 特征工程 - 04feature_engineering.ipynb  
 数据建模 - 05data_modeling.ipynb  
 结果评估 - 06result_evaluation.ipynb  
-结果解释与展示 - 07result_interpretation_presentation.ipynb  
 
 ## 贡献与参与
 我们诚挚地欢迎所有对此研究感兴趣的研究者、开发者和数据科学家加入我们。无论是通过提供数据、优化模型还是提供新的见解，您的每一份贡献都对我们非常重要。
